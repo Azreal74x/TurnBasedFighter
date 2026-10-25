@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\TurnBasedFightingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\ScoreManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\ScoreManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Character.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Scene.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MySprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MySprite.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MyText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MyText.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB746EA-294A-4CEB-9009-C4074EDAE61E}|TurnBasedFightingGame\\TurnBasedFightingGame.vcxproj|C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\ScoreManager.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\ScoreManager.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\ScoreManager.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\ScoreManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-05T19:31:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\ScoreManager.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\ScoreManager.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\ScoreManager.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\ScoreManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T19:32:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Character.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\Character.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Character.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\Character.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T13:01:09.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\Character.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Character.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T13:00:43.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\Main.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Main.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\Main.cpp",
+              "ViewState": "AgIAANIAAAAAAAAAAAAYwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T09:41:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyText.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MyText.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\MyText.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MyText.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\MyText.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T12:58:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyText.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MyText.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\MyText.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MyText.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\MyText.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T12:58:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Button.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Button.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\Button.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Button.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\Button.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:13:39.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Button.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\Button.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Button.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\Button.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T10:14:07.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySprite.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MySprite.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\MySprite.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\MySprite.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\MySprite.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T11:49:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySprite.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MySprite.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\MySprite.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\MySprite.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\MySprite.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T11:50:12.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scene.hpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Scene.hpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Include\\Scene.hpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Include\\Scene.hpp",
+              "RelativeToolTip": "..\\Internal\\Include\\Scene.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:29:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Scene.cpp",
+              "RelativeDocumentMoniker": "..\\Internal\\Source\\Scene.cpp",
+              "ToolTip": "C:\\Users\\emily\\Desktop\\cpp\\assignmentCPP\\Internal\\Source\\Scene.cpp",
+              "RelativeToolTip": "..\\Internal\\Source\\Scene.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T10:28:42.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
