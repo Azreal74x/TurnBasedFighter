@@ -4,22 +4,22 @@ This is a 2D turn based fighting game against a computer made using C++ and SFML
 
 #
 
-**Class Structure:** 
+**Class Structure:** <br>
 Separated the game into different classes for characters, scenes, buttons, sprites, text, and score management.
 
-**Scene Management:** 
+**Scene Management:** <br>
 Created a Scene class to manage game objects and rendering, allowing the game to switch between the main menu and fighting scene.
 
-**Turn System:**
+**Turn System:** <br>
 Used state variables and SFML timers to manage player and enemy turns, including disabling actions when needed.
 
-**Memory Management:**
+**Memory Management:** <br>
 Used smart pointers (std::shared_ptr) to manage sprites, buttons, and text objects.
 
-**Character Logic:**
+**Character Logic:** <br>
 Created a Character class to handle health, attacking, healing, and randomized enemy actions.
 
-**Score Management:**
+**Score Management:** <br>
 Created a ScoreManager class to track scores and save and load highscores between sessions.
 
 #
